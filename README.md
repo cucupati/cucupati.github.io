@@ -1,2 +1,2 @@
- # https://secure.github.io
+ # https://cucupati.github.io
  landing page
